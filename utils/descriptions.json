@@ -1,0 +1,8 @@
+{
+  "descriptions": {
+    "web-dev": ["Web dev is the art of developing nice UI and UX."],
+    "algo-trading": ["Algo trading is the art of making $$$."],
+    "swift-dev": ["Knowing how to use Swift"],
+    "rust-dev": ["Knowing how to use Rust"]
+  }
+}
